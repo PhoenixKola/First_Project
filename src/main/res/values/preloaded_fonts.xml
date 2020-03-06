@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/cagliostro</item>
+        <item>@font/cantora_one</item>
+        <item>@font/comfortaa_bold</item>
+        <item>@font/comfortaa_light</item>
+        <item>@font/coustard</item>
+        <item>@font/lemon</item>
+    </array>
+</resources>
